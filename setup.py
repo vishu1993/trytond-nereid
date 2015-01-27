@@ -115,7 +115,7 @@ setup(
     author='Openlabs Technologies & Consulting (P) Limited',
     author_email='info@openlabs.co.in',
     description='Tryton - Web Framework',
-    long_description=read('README.rst'),
+    long_description=read('README.md'),
     classifiers=[
         'Development Status :: 4 - Beta',
         'Environment :: Web Environment',
